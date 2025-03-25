@@ -20,6 +20,6 @@
 
 💡 Explorando novas ideias e aprendendo todos os dias! 
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400px">
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVkYjhrMzBsMzR2NWF1d3V1cjdteDdqZDRheHR3dXoyMTVua3phYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" width="400px">
 
