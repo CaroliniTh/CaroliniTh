@@ -11,6 +11,9 @@
   - HTML & CSS
   - JavaScript
   - Banco de Dados SQL
+  - UX/Design
+  - UI/ Design
+  - Power BI
     
 🖥️ Projetos em Destaque:
   - Em construção... (logo terá novidades!)
