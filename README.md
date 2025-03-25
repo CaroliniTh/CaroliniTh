@@ -1,6 +1,6 @@
 ## 👋 Hello World, eu sou a Carolini!
 
-<!--
+
 💻 Desenvolvedora apaixonada por Python e UI/UX Design.   
 🚀 Em busca de evoluir no mundo do desenvolvimento e design!
 
@@ -19,4 +19,4 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carolini-thauani-200a5428b)
 
 💡 Explorando novas ideias e aprendendo todos os dias! 
--->
+
